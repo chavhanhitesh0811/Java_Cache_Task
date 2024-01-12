@@ -11,7 +11,6 @@ public class App {
 	
 	private static Logger logger = LogManager.getLogger(App.class);
 
-//	main function
 	public static void main(String[] args) {
 		
 		TaskImplementation taskImpl = new TaskImplementation();
